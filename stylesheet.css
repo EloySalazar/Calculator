@@ -1,0 +1,50 @@
+* {
+    padding: 12px;
+    margin: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+background-color: rgb(26, 26, 27);
+
+}
+
+h1 {
+    font-size: 50px;
+    color: orangered;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input {
+    font-size: 23px;
+    background-color: rgb(66, 66, 66);
+    border-color: orangered;
+    color: orangered;
+}
+
+select {
+    font-size: 23px;
+    background-color: rgb(66, 66, 66);
+    border-color: orangered;
+    color: orangered;
+   
+}
+
+button {
+    font-size: 20px;
+    background-color: orangered;
+    color: blanchedalmond;
+    border: 0px;
+}
+
+
+button:hover {
+    background-color: rgb(255, 124, 76);
+
+}
+label {
+    color: orangered;
+    font-size: 30px;
+}
